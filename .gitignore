@@ -1,0 +1,23 @@
+# 输出目录
+out/
+
+# 视频文件（不提交到仓库）
+*.mkv
+*.mp4
+*.avi
+*.mov
+*.flv
+*.wmv
+
+# 字幕文件（通常和视频一起分发）
+*.ass
+*.ssa
+*.srt
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.log
